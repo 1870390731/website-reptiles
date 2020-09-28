@@ -1,0 +1,15 @@
+{
+  "name": "website-reptiles",
+  "version": "1.0.2",
+  "description": "将指定网站下载到本地的爬虫工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "website-reptiles": "^1.0.1"
+  }
+}
