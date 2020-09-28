@@ -2,7 +2,7 @@
 将制定网站爬取到本地实现离线访问  
 
 用法：  
-```javascript
+```Node.js
 let downloadSite = reuqire('website-reptiles')   
 downloadSite('http://localhost:8080') // 传入你想要爬取的网站路径
 ```
